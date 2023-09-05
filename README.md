@@ -11,7 +11,7 @@
 - 材料：你的护照、你的sutdent ID
 - 地点：1001 Fanshawe College Blvd.London, Ontario Canada N5Y 5R6 E栋2020
 - 流程：
-  1. 使用浏览器访问：https://www.fanshawec.ca/students/life/fancard，点击` Upload your FANCard photo (myPhoto)` 然后点击 `Get Started Now!` ，然后登陆你的账号即可根据指引上传您的头像照片。
+  1. 使用浏览器访问：https://www.fanshawec.ca/students/life/fancard，点击`Upload your FANCard photo (myPhoto)` 然后点击 `Get Started Now!` ，然后登陆你的账号即可根据指引上传您的头像照片。
   2. 上传完成后的第二天你的邮箱会收到邮件，根据邮件指引携带你的材料前往学校的上述地点即可领取你的Fan card。
 - 备注：
   1. 建议使用电脑访问，因为在图片上传环节需要加载相应的js组件。若在本环节出现异常请更换电脑重试。
