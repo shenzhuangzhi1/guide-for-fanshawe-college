@@ -1,7 +1,7 @@
 # guide-for-fanshawe-college
 
-​	这篇文章旨在为第一次进入fanshawe college 的新生提供向导。
-​	本文会介绍会用到的工具，以及会以必做、可选等纬度对要做的事进行介绍。每件要做的事都会有对应的材料、地点、具体流程等内容。
+这篇文章旨在为第一次进入fanshawe college 的新生提供向导。
+本文会介绍会用到的工具，以及会以必做、可选等纬度对要做的事进行介绍。每件要做的事都会有对应的材料、地点、具体流程等内容。
 
 你可能会用到的工具
 
@@ -19,7 +19,7 @@
 
 #### 办理你的Fan Card
 
-- 材料：你的护照、你的sutdent ID
+- 材料：你的护照、你的student ID
 - 地点：1001 Fanshawe College Blvd.London, Ontario Canada N5Y 5R6 E栋2020
 - 流程：
   1. 使用浏览器访问：https://www.fanshawec.ca/students/life/fancard，点击`Upload your FANCard photo (myPhoto)` 然后点击 `Get Started Now!` ，然后登陆你的账号即可根据指引上传您的头像照片。
