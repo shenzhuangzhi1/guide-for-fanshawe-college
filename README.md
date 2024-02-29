@@ -7,10 +7,12 @@
 
 学校会提供免费的软件给学生和老师使用，这些软件包括office 365、Adobe等。你可以在学校的官网上找到这些软件的下载链接。
 官方网站：https://www.fanshawec.ca/  
+
 FOL(fanshawe online)：https://www.fanshaweonline.ca/
+
 office 365下载：https://www.microsoft.com/en-ca/microsoft-365
+
 Adobe 下载：https://www.adobe.com/ca/
-[TOC]
 
 
 
@@ -54,3 +56,14 @@ Adobe 下载：https://www.adobe.com/ca/
 - 地点：1001 Fanshawe College Blvd.London, Ontario Canada N5Y 5R6 E栋1012
 - 流程：
 - 备注：
+
+### 如何办理Social Insurance Number(SIN)
+- 材料：
+- 地点：网上
+- 流程：
+  1. 登陆 https://www.canada.ca/en/employment-social-development/services/sin/apply.html 
+  2. 点击红框中的按钮根据引导完成申请  ![apply_SIN_1.png](images%2Fapply_SIN_1.png)
+- 备注：
+  1. 申请完成后你会收到邮寄的SIN
+  2. SIN只是一个数字，那张纸并没有特殊的作用
+  3. 记得用手机记录下SIN，以防丢失
